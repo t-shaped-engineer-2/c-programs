@@ -11,7 +11,7 @@ int main()
    scanf("%d",&m1);
 
    //if (m1>12)
-   //{ printf("invalid month");       }
+   //{ printf("invalid month ");       }
 
    printf("date of your birth\n");
    scanf("%d",&d);
