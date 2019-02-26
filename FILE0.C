@@ -11,6 +11,7 @@ void main()
 	{
 		putchar(ch);
 		ch = getc(fp);
+
 	}
 	getch();
 
